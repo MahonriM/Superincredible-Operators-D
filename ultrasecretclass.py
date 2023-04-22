@@ -1,4 +1,4 @@
-#Class starts
+#Definiton of the class
 class operaciones:
   #Initialization of the class
     def __init__(self,numero,numero2):
